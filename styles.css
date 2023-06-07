@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a{
+    outline: none;
+    border: 0;
+    font-size: 1.3em;
+    border-radius: 10px;
+}
+.btnnext{
+    position: relative;
+    left: 760px;
+}
